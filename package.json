@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "bot-studify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacAndra/Bot-Studify.git"
+  },
+  "keywords": [],
+  "author": "Isaac Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacAndra/Bot-Studify/issues"
+  },
+  "homepage": "https://github.com/IsaacAndra/Bot-Studify#readme",
+  "description": "bot de estudos de programacao para discord"
+}
